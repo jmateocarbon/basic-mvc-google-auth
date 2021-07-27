@@ -114,14 +114,14 @@ Change the meta name field in the Views/Home/Index and View/Home/Landing to your
     <meta name="google-signin-client_id" content="yourCredentialsHere.apps.googleusercontent.com">
 Just build the project then run.
 
-Logging in:
+Logging in:\
 ![image](https://user-images.githubusercontent.com/51006392/127162282-74d1ff2f-025a-4c2a-97ff-12c77a1104e4.png)
 ![image](https://user-images.githubusercontent.com/51006392/127162484-2cbe1fec-079f-4cb5-985e-94a2b2b217f8.png)
 
-After Success:
+After Success:\
 ![image](https://user-images.githubusercontent.com/51006392/127162701-4d064bae-3cae-4bf6-9689-62f0f20feab0.png)
 
-After Logout
+After Logout\
 ![image](https://user-images.githubusercontent.com/51006392/127162282-74d1ff2f-025a-4c2a-97ff-12c77a1104e4.png)
 
 <!-- ROADMAP -->
