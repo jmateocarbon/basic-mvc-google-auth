@@ -110,6 +110,8 @@ This is an example of how to list things you need to use the software and how to
 This approach in webdesign is ideal but not required since you dont need to store sensitive user information on your database 
 like password, phone numbers but you do have control on what information you would like to process given that your user agreed to.
 
+Change the meta name field in the Views/Home/Index and View/Home/Landing to your own cliend ID. Incase you missed it, please refer to https://www.youtube.com/watch?v=V4KqpIX6pdI
+    <meta name="google-signin-client_id" content="yourCredentialsHere.apps.googleusercontent.com">
 Just build the project then run.
 
 <!-- ROADMAP -->
