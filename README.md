@@ -73,7 +73,7 @@ Hyrbid Analysis for checking malicious websites and files
 
 ### Built With
 
-* [Python](https://www.python.org/)
+* [C#](https://docs.microsoft.com/en-us/visualstudio/get-started/csharp/?view=vs-2019)
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -110,10 +110,11 @@ This is an example of how to list things you need to use the software and how to
 This approach in webdesign is ideal but not required since you dont need to store sensitive user information on your database 
 like password, phone numbers but you do have control on what information you would like to process given that your user agreed to.
 
+Just build the project then run.
 
 <!-- ROADMAP -->
 ## Roadmap
-See the [open issues](https://github.com/jmateocarbon/google-twitter-webscrapper/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/jmateocarbon/basic-mvc-google-auth/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -125,7 +126,6 @@ Contributions are what make the open source community such an amazing place to b
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
 
 <!-- CONTACT -->
 ## Contact
