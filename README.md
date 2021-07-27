@@ -69,7 +69,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Hyrbid Analysis for checking malicious websites and files
+Just a basic workflow of google oauth implementation.
 
 ### Built With
 
@@ -92,7 +92,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/jmateocarbon/Google-Auth.git
+   git clone https://github.com/jmateocarbon/basic-mvc-google-auth.git
    ```
 2. Google Developer Account
    ```sh
@@ -107,12 +107,22 @@ This is an example of how to list things you need to use the software and how to
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-This approach in webdesign is ideal but not required since you dont need to store sensitive user information on your database 
+This approach in web design is ideal but not required since you dont need to store sensitive user information on your database 
 like password, phone numbers but you do have control on what information you would like to process given that your user agreed to.
 
 Change the meta name field in the Views/Home/Index and View/Home/Landing to your own cliend ID. Incase you missed it, please refer to https://www.youtube.com/watch?v=V4KqpIX6pdI
     <meta name="google-signin-client_id" content="yourCredentialsHere.apps.googleusercontent.com">
 Just build the project then run.
+
+Logging in:
+![image](https://user-images.githubusercontent.com/51006392/127162282-74d1ff2f-025a-4c2a-97ff-12c77a1104e4.png)
+![image](https://user-images.githubusercontent.com/51006392/127162484-2cbe1fec-079f-4cb5-985e-94a2b2b217f8.png)
+
+After Success:
+![image](https://user-images.githubusercontent.com/51006392/127162701-4d064bae-3cae-4bf6-9689-62f0f20feab0.png)
+
+After Logout
+![image](https://user-images.githubusercontent.com/51006392/127162282-74d1ff2f-025a-4c2a-97ff-12c77a1104e4.png)
 
 <!-- ROADMAP -->
 ## Roadmap
