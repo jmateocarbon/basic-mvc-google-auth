@@ -144,7 +144,7 @@ Contributions are what make the open source community such an amazing place to b
 https://www.linkedin.com/in/johnmatthewcarbon/
 
 ## Improvements
-Finish the file hash checker task
+Expound on project
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
